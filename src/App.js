@@ -21,7 +21,7 @@ function MyButton({countValue,eventHandler}) {
 
 export default function MyApp() {
   const person = {
-    name: "Darshana Gupta",
+    name: "Darshana Gupta Checking",
     theme: {
       backgroundColor : 'black',
       color : 'pink'
